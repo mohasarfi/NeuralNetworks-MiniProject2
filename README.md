@@ -9,4 +9,6 @@ The DNN architecture consists of three main components: the encoder, recurrent l
 
 The following Figure shows the predicted frames using LSTM, GRU, and RNN layers. 
 
-![Prediction sample](PredictionSample.png)
+<p align="center">
+  <img src="PredictionSample.png" alt="Simple pendulum Animation">
+</p>
